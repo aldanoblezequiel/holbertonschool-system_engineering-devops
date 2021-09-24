@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --dereference vincent hello 
+chown vincent owner.staff* hello 
