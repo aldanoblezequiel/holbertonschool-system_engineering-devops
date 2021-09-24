@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent hello/guillaume  
+chown --preserve-root vincent hello/guillaume  
