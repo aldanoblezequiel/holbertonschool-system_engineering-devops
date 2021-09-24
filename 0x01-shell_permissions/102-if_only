@@ -1,2 +1,2 @@
 #!/bin/bash
-if user=guillaume chown vincent hello
+if echo=guillaume chown vincent hello
