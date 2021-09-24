@@ -1,2 +1,3 @@
 #!/bin/bash
-if echo=guillaume chown vincent hello
+if [uid=guillaume]
+then  chown vincent hello
