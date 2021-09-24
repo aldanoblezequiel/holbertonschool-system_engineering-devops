@@ -1,3 +1,2 @@
 #!/bin/bash
-if [uid=guillaume]
-then  chown vincent hello
+if [uid=guillaume] then  chown vincent hello
