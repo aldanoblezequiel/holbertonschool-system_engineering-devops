@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent owner.staff* hello 
+chown vincent owner.staff=guillaume hello 
