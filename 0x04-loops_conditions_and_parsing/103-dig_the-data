@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# oreder apache files
+awk -F ' ' '{ print $1 " " $9 }' apache-access.log | sort | uniq -c | sort -nr
