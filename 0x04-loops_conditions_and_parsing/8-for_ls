@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# shows the things in the pwd
+
+for count in *
+do
+	echo "$count" | cut -d '-' -f 2
+done
