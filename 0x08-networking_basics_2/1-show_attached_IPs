@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Displays IPS on V.M.
+ifconfig | grep "inet" | cut -d" " -f10
