@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Display litening sports
+sudo netstat --listening --program
