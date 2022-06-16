@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-xdddddddddddddddddd
+ssh-keygen -t rsa
